@@ -46,6 +46,9 @@ The following **additional** features are implemented:
 * [x] **Progress completion detection** - Displays completion message when all cards are mastered
 * [x] **17 diverse flashcards** - Covering topics from geography to science to literature
 
+Video Walkthrough 
+https://files.fm/u/w385wqtvza
+
 
 
 ## Notes
