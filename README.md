@@ -1,4 +1,3 @@
-
 # Web Development Project 3 - *Flashcard Learning App*
 
 Submitted by: **Debashrestha Nandi**
